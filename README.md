@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshpujari
-- 👀 I’m interested in data sciene ? maybe ?
-- 🌱 I’m currently learning data science and machine learning
+- 👀 I’m interested in data sciene ? 
+- 🌱 I’m currently studying data science
 - 📫 How to reach me @harsh_pujari
 
 <!---
