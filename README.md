@@ -21,10 +21,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Profile views in a day
-<a href="https://github.com/ZelalemGizachew/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ZelalemGizachew">
+<a href="https://github.com/harshpujari/github-profile-views-counter">
 
 ## Followers
-<a href="https://github.com/ZelalemGizachew?tab=followers"><img src="https://img.shields.io/github/followers/ZelalemGizachew?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/harshpujari?tab=followers"><img src="https://img.shields.io/github/followers/harshpujari?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 harshpujari/harshpujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
