@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Profile views in a day
-<a href="https://github.com/harshpujari/github-profile-views-counter">
+[![](https://visitcount.itsvg.in/api?id=harshpujari&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ## Followers
 <a href="https://github.com/harshpujari?tab=followers"><img src="https://img.shields.io/github/followers/harshpujari?label=Followers&style=social" alt="GitHub Badge"></a>
