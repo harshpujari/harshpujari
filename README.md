@@ -20,8 +20,11 @@
 ### ✍️ Dev Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=harshpujari&icon=2&color=0)](https://visitcount.itsvg.in)
+## Profile views in a day
+<a href="https://github.com/ZelalemGizachew/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ZelalemGizachew">
+
+## Followers
+<a href="https://github.com/ZelalemGizachew?tab=followers"><img src="https://img.shields.io/github/followers/ZelalemGizachew?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 harshpujari/harshpujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
