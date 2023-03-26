@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m @harshpujari<br>👀 I’m interested in data science ?<br>🌱 I’m currently studying data science projects
+👋 Hi, I’m @harshpujari<br>
+👀 I’m interested in data science ?<br>
+🌱 I’m currently working on some data sceince and development projects
 
 
 ## 🌐 Socials:
