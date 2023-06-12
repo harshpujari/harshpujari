@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @harshpujari<br>
-👀 I’m interested in data science ?<br>
-🌱 I’m currently working on some data sceince and development projects
+👀 I’m interested in data science
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harshpujari1999)
