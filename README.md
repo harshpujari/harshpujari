@@ -1,6 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m @harshpujari<br>
-👀 I’m interested in data science
+## 👋 About Me
+
+I'm @harshpujari, a passionate data enthusiast with a keen interest in data science, statistics, deep learning, and machine learning. I enjoy leveraging data-driven insights to solve complex problems and make informed decisions.
+
+I'm actively seeking opportunities to collaborate on data science projects, contribute to open-source initiatives, and engage with like-minded individuals who share a passion for data-driven problem-solving.
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/harshpujari) to explore potential collaborations or discuss exciting opportunities in the data science realm!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/harshpujari1999)
@@ -20,10 +24,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-# 📍 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshpujari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshpujari&theme=dark&hide_border=false)
-[](https://github-readme-stats.vercel.app/api/toplangs/username=harshpujari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📍 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpujari&theme=dark&hide_border=false&show_icons=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshpujari&theme=dark&hide_border=false)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpujari&layout=compact&theme=dark&hide_border=false)](https://github.com/harshpujari)
+
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=harsh_pujari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
