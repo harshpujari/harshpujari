@@ -32,8 +32,6 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/harshpujari) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpujari&layout=compact&theme=dark&hide_border=false)](https://github.com/harshpujari)
 
-
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=harsh_pujari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
