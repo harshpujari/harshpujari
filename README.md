@@ -24,6 +24,13 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/harshpujari) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
+### Specialized Skills
+- Large Language Models & Prompt Engineering
+- LangChain & Vector Databases
+- OCR & Document Processing
+- Data Extraction & ETL Pipelines
+- Pydantic & API Development
+
 ## 📍 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpujari&theme=dark&hide_border=false&show_icons=true&count_private=true)
@@ -34,12 +41,6 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/harshpujari) 
 
 ### ✍️ Dev Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## Profile views in a day
-[![](https://visitcount.itsvg.in/api?id=harshpujari&icon=2&color=0)](https://visitcount.itsvg.in)
-
-## Followers
-<a href="https://github.com/harshpujari?tab=followers"><img src="https://img.shields.io/github/followers/harshpujari?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 harshpujari/harshpujari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
