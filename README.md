@@ -1,6 +1,6 @@
 # Harsh Pujari
 
-Data Scientist specializing in ML, Deep Learning & LLMs
+Team lead specializing in ML, Deep Learning, LLMs and AI Engineering
 
 ## Connect
 
