@@ -19,6 +19,6 @@ Team lead specializing in ML, Deep Learning, LLMs and AI Engineering
 Open to collaboration on data science projects and open-source initiatives.
 
 ## Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshpujari&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshpujari&theme=dark&hide_border=true)
 
 ---
