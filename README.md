@@ -20,3 +20,5 @@ Open to collaboration on data science projects and open-source initiatives.
 
 ## Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshpujari&theme=dark&hide_border=true)
+
+---
