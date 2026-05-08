@@ -4,7 +4,7 @@ Team lead specializing in ML, Deep Learning, LLMs and AI Engineering
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/harshpujari) · [Twitter](https://twitter.com/harsh_pujari) · [Instagram](https://instagram.com/harsh_pujari)
+[LinkedIn](https://linkedin.com/in/harshpujari) · [Twitter](https://twitter.com/harshpujari_dev) · [Instagram](https://instagram.com/harshpujari_dev)
 
 ## Skills
 
