@@ -10,8 +10,10 @@
 
 <br/>
 </div>
-Team lead specializing in ML, Deep Learning, LLMs and AI Engineering
-
+<p align="center">
+  <i>Team lead building production AI systems —<br/>
+  from LLM agents to retrieval pipelines.</i>
+</p>
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/harshpujari) · [Twitter](https://twitter.com/harshpujari_dev) · [Instagram](https://instagram.com/harshpujari_dev)
