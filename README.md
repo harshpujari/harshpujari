@@ -24,47 +24,43 @@
 <br/>
 
 ---
+### &nbsp;&nbsp;Craft
 
 <br/>
 
-### &nbsp;&nbsp;Craft
+<p align="center">
+  <sub>FOUNDATIONS</sub>
+</p>
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top">
+<h3 align="center">
+  Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Statistics
+</h3>
 
-**Foundations**
+<br/>
+<br/>
 
-Python  
-Machine Learning  
-Deep Learning  
-Statistics
+<p align="center">
+  <sub>APPLIED&nbsp;AI</sub>
+</p>
 
-</td>
-<td width="33%" valign="top">
+<h3 align="center">
+  LLMs &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; Vector Databases
+  <br/>
+  OCR &amp; Document Processing &nbsp;·&nbsp; ETL Pipelines
+</h3>
 
-**Applied AI**
+<br/>
+<br/>
 
-LLMs & Prompt Engineering  
-LangChain  
-Vector Databases  
-OCR & Document Processing  
-ETL Pipelines
+<p align="center">
+  <sub>TOOLKIT</sub>
+</p>
 
-</td>
-<td width="33%" valign="top">
-
-**Toolkit**
-
-TensorFlow · Keras  
-scikit-learn  
-Pandas · NumPy  
-Azure  
-MongoDB · MySQL
-
-</td>
-</tr>
-</table>
+<h3 align="center">
+  TensorFlow &nbsp;·&nbsp; Keras &nbsp;·&nbsp; scikit-learn
+  <br/>
+  Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Azure &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL
+</h3>
 
 <br/>
 
