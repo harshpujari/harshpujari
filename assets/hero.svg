@@ -1,0 +1,40 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="orb1" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#06b6d4" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="50%" cy="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#ec4899" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a1a1aa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#000000"/>
+  <circle cx="320" cy="200" r="240" fill="url(#orb1)"/>
+  <circle cx="880" cy="220" r="280" fill="url(#orb2)"/>
+  <circle cx="600" cy="320" r="200" fill="url(#orb3)"/>
+
+  <text x="600" y="200" text-anchor="middle"
+        font-family="-apple-system, 'SF Pro Display', system-ui"
+        font-size="88" font-weight="700" fill="url(#nameGrad)" letter-spacing="-2">
+    Harsh Pujari
+  </text>
+
+  <text x="600" y="250" text-anchor="middle"
+        font-family="-apple-system, 'SF Pro Text', system-ui"
+        font-size="18" font-weight="400" fill="#a1a1aa" letter-spacing="1">
+    Machine Learning  ·  Deep Learning  ·  AI Engineering
+  </text>
+</svg>
