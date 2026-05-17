@@ -76,11 +76,11 @@ MongoDB · MySQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshpujari&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=4a4a4a&icon_color=1a1a1a&hide=contribs,prs&card_width=380" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshpujari&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&hide=contribs,prs&card_width=380" height="160"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=harshpujari&hide_border=true&background=00000000&stroke=e5e5e5&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a&sideLabels=4a4a4a&dates=8a8a8a&currStreakNum=1a1a1a&sideNums=1a1a1a" height="160"/>
+<img src="https://streak-stats.demolab.com?user=harshpujari&hide_border=true&background=00000000&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
 
 </div>
 
