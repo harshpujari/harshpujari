@@ -1,6 +1,8 @@
-# {Your Name} — AI Architect & Team Lead
+# Harsh Pujari — AI Architect & Team Lead
 
 One-line value proposition: I design and lead production-grade ML systems that deliver measurable business impact.
+
+- Building reliable AI products from prototype to production.
 
 ---
 
