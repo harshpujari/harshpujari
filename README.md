@@ -14,6 +14,11 @@
 
 <br/>
 
+## Snapshot
+
+- Role: AI Engineering Team Lead / AI Architect
+- Focus: production AI, LLM agents, retrieval pipelines, and scalable MLOps
+
 ---
 
 ### &nbsp;&nbsp;Craft
