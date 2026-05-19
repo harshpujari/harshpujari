@@ -10,6 +10,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 
 - Role: Experienced AI Engineering Team Lead / AI Architect
 - Focus: ML system architecture, MLOps, model governance, and scaling cross-functional teams to ship reliable ML in production.
+- Experience: leading cross-functional AI teams delivering end-to-end ML services.
 
 ## Core Competencies
 
