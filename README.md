@@ -19,6 +19,15 @@
 - Role: AI Engineering Team Lead / AI Architect
 - Focus: production AI, LLM agents, retrieval pipelines, and scalable MLOps
 
+## Core Competencies
+
+- ML architecture & system design
+- MLOps & CI/CD for models
+- Model lifecycle & governance
+- Data platforms & feature engineering
+- Scalable model serving & cost optimization
+- Observability, monitoring & incident response
+
 ---
 
 ### &nbsp;&nbsp;Craft
