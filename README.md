@@ -28,6 +28,13 @@
 - Scalable model serving & cost optimization
 - Observability, monitoring & incident response
 
+## Impact & Metrics (top highlights)
+
+- {Metric 1 — e.g., reduced inference cost by 40%}
+- {Metric 2 — e.g., accelerated time-to-production}
+- {Metric 3 — e.g., improved model reliability and visibility}
+- {Metric 4 — e.g., scaled deployment consistency}
+
 ---
 
 ### &nbsp;&nbsp;Craft
