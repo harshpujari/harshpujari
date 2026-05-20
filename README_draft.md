@@ -24,7 +24,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 
 ## Impact & Metrics (top highlights)
 
-- {Metric 1 — e.g., Reduced inference cost by 40% in X months}
+- Reduced inference cost by 40% in X months while improving model reliability and throughput
 - {Metric 2 — e.g., Reduced time-to-production from 12 to 4 weeks}
 - {Metric 3 — e.g., Cut 95th percentile latency by 30% for recommendations}
 - {Metric 4 — e.g., Reduced model rollback incidents by 70%}
