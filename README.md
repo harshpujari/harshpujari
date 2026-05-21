@@ -79,6 +79,14 @@
 
 ---
 
+## Selected Projects (TL;DR + outcome)
+
+1) Recommendation System Re-architecture — Architect / Lead
+   - Context: {Short problem statement, scale, constraints}
+   - Role: {Your role / team size}
+   - Tech highlights: {e.g., feature store, caching, optimized runtime}
+   - Outcome: {Key metrics and link to repo or demo}
+
 <br/>
 
 ### &nbsp;&nbsp;Activity
