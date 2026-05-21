@@ -51,6 +51,12 @@ One-line value proposition: I design and lead production-grade ML systems that d
    - Tech highlights: {e.g., Kafka, Flink, PyTorch, k8s}
    - Outcome: {Detection improvement, latency, link to paper/demo}
 
+4) End-to-end Data Platform — Lead Engineer
+   - Context: {Schema, ingestion, quality and governance challenges}
+   - Role: {Owned data pipeline architecture and platform delivery}
+   - Tech highlights: {e.g., dbt, Airflow, monitoring, ML feature store}
+   - Outcome: {Improved data freshness, alignment, and analytics velocity}
+
 {Add 0–2 more projects following same template}
 
 ---
