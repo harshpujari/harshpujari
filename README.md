@@ -87,6 +87,18 @@
    - Tech highlights: {e.g., feature store, caching, optimized runtime}
    - Outcome: {Key metrics and link to repo or demo}
 
+2) Responsible-AI Platform — Architect
+   - Context: {Lack of model registry, drift detection, auditability}
+   - Role: {Designed platform, led implementation}
+   - Tech highlights: {e.g., model registry, drift monitors, approval gates}
+   - Outcome: {Metrics, compliance benefits, link}
+
+3) Real-time Fraud Detection — Lead Engineer
+   - Context: {Streaming data, low-latency requirements}
+   - Role: {Led end-to-end delivery}
+   - Tech highlights: {e.g., Kafka, Flink, PyTorch, k8s}
+   - Outcome: {Detection improvement, latency, link to paper/demo}
+
 <br/>
 
 ### &nbsp;&nbsp;Activity
