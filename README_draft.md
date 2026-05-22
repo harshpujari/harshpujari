@@ -63,7 +63,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 
 ## Leadership & Ways of Working
 
-- Built cross-functional processes: model design reviews, risk assessments, incident runbooks.
+- Built cross-functional processes: model design reviews, risk assessments, incident runbooks, and rollout coordination across engineering and product.
 - Instituted mentoring program and career ladders for ML engineers.
 - Advocated reproducibility, testing, and cost-awareness at design time.
 - Hires mentored: {Number — e.g., 8 engineers}; team scaling: {From X to Y}.
