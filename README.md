@@ -99,9 +99,43 @@
    - Tech highlights: {e.g., Kafka, Flink, PyTorch, k8s}
    - Outcome: {Detection improvement, latency, link to paper/demo}
 
+---
+
+## Leadership & Ways of Working
+
+- Built cross-functional processes: model design reviews, risk assessments, incident runbooks.
+- Instituted mentoring programs and career ladders for ML engineers.
+- Advocated reproducibility, testing, and cost-awareness at design time.
+- Hires mentored: {Number — e.g., 8 engineers}; team scaling: {From X to Y}.
+
+## How I Work (Principles)
+
+- Data-first: prioritize data quality and observability.
+- Automate: pipelines, testing, and deployment as code.
+- Safe-by-design: bias checks, thresholds, rollback strategies.
+- Incremental & measurable: ship small, measure, iterate.
+
+## Tech Stack & Tools
+
+- ML: PyTorch, TensorFlow, JAX
+- Serving & Infra: Kubernetes, Docker, AWS/GCP, Terraform
+- MLOps & Orchestration: MLflow, Argo, Kubeflow, Airflow
+- Data & Streaming: Kafka, BigQuery/Redshift, Spark
+- Observability: Prometheus, Grafana, Sentry
+
+## Contact & Next Steps
+
+- Email: {your.email@example.com}
+- LinkedIn: {linkedin.com/in/yourprofile}
+- Open to: leadership roles, advisory, speaking, and consulting.
+
+---
+
 <br/>
 
-### &nbsp;&nbsp;Activity
+<p align="center">
+  <sub>Open to collaboration on AI and open-source work.</sub>
+</p>
 
 <div align="center">
 
