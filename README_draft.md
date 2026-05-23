@@ -73,6 +73,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 - Data-first: prioritize data quality and observability.
 - Automate: pipelines, testing, and deployment as code.
 - Safe-by-design: bias checks, thresholds, rollback strategies.
+- Measure everything: define KPIs, dashboards, and feedback loops for every release.
 - Incremental & measurable: ship small, measure, iterate.
 
 ---
