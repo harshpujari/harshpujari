@@ -84,6 +84,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 - Serving & Infra: Kubernetes, Docker, AWS/GCP, Terraform
 - MLOps & Orchestration: MLflow, Argo, Kubeflow, Airflow
 - Data & Streaming: Kafka, BigQuery/Redshift, Spark
+- Data ops & ETL: dbt, Prefect, Airbyte
 - Observability: Prometheus, Grafana, Sentry
 
 ---
