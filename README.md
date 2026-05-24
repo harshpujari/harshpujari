@@ -129,6 +129,11 @@
 - LinkedIn: {linkedin.com/in/yourprofile}
 - Open to: leadership roles, advisory, speaking, and consulting.
 
+## Open Source / Publications / Talks
+
+- {Link to blog posts, slides, talks, notable PRs}
+- {Open-source contributions or community highlights}
+
 ---
 
 <br/>
