@@ -91,7 +91,8 @@ One-line value proposition: I design and lead production-grade ML systems that d
 
 ## Open Source / Publications / Talks
 
-- {Link to blog posts, slides, talks, notable PRs}
+- Published blog posts, slides, and talks on production ML, LLM systems, and AI engineering
+- {Open-source contributions or community highlights}
 
 ---
 
