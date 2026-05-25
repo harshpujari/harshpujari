@@ -134,6 +134,12 @@
 - {Link to blog posts, slides, talks, notable PRs}
 - {Open-source contributions or community highlights}
 
+## How to Customize This Draft
+
+1. Replace placeholder text with concrete metrics, project names, and links.
+2. Shorten or adjust the summary to match your current role and goals.
+3. Add project snippets and outcome metrics for higher impact.
+
 ---
 
 <br/>
