@@ -100,7 +100,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 
 - Email: {your.email@example.com}
 - LinkedIn: {linkedin.com/in/yourprofile}
-- Open to: leadership roles, advisory, speaking, and consulting.
+- Open to: leadership roles, advisory, speaking, consulting, and mentorship opportunities.
 
 ---
 
