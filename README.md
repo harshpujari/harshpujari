@@ -145,7 +145,7 @@
 <br/>
 
 <p align="center">
-  <sub>Open to collaboration on AI and open-source work.</sub>
+  <sub>Open to collaboration on AI, leadership partnerships, advisory engagements, and open-source work.</sub>
 </p>
 
 <div align="center">
