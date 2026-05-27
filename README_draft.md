@@ -110,6 +110,7 @@ One-line value proposition: I design and lead production-grade ML systems that d
 2. For each project, add a one-line TL;DR above the details for quick scanning.
 3. Add 1–2 visuals: a short architecture diagram and a 20–30s demo GIF or notebook link.
 4. Optionally, shorten the Snapshot and Core Competencies to keep the top-of-file minimal (3–5 lines).
+5. Update the tech stack section with the current tools, platforms, and languages you use daily.
 
 ---
 
