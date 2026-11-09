@@ -64,10 +64,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshpujari&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&hide=contribs,prs&card_width=380" height="160"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=harshpujari&hide_border=true&background=00000000&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
 
 </div>
