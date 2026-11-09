@@ -49,9 +49,11 @@
 </p>
 
 <h3 align="center">
-  TensorFlow &nbsp;·&nbsp; Keras &nbsp;·&nbsp; scikit-learn
+  PyTorch &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; Keras &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Hugging Face
   <br/>
-  Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; Azure &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL
+  Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Docker
+  <br/>
+  Azure &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; MySQL
 </h3>
 
 <br/>
@@ -65,6 +67,14 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=harshpujari&hide_border=true&background=00000000&stroke=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff" height="160"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshpujari/harshpujari/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshpujari/harshpujari/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/harshpujari/harshpujari/output/snake-dark.svg"/>
+</picture>
 
 </div>
 
